@@ -1,0 +1,1 @@
+# Norway-s-International-Climate-and-Forest-Initiative-NICFI-using-Planet-Satellite-Imagery-in-R
